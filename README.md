@@ -1,10 +1,20 @@
 # pulsar-star-classification
 Kaggle project. 
 
-PREDICTING A PULSAR STAR
+**Project Title:** Predicting a Pulsar Star
 
-Pulsars are a rare type of Neutron star that produce radio emission detectable here on Earth. They are of considerable scientific interest as probes of space-time, the inter-stellar medium, and states of matter . Neutron stars are very dense, and have short, regular rotational periods. This produces a very precise interval between pulses that ranges from milliseconds to seconds for an individual pulsar. Pulsars are believed to be one of the candidates for the source of ultra-high-energy cosmic rays.
+**Description:**
+Pulsars are rare neutron stars that emit detectable radio waves, offering significant insights into space-time, the interstellar medium, and states of matter. Leveraging their unique properties, including dense composition and precise rotational periods, we can utilize them to explore various astrophysical phenomena.
 
-The first pulsar was observed on November 28, 1967, by Jocelyn Bell Burnell and Antony Hewish. They observed pulses separated by 1.33 seconds that originated from the same location in the sky, and kept to sidereal time. In looking for explanations for the pulses, the short period of the pulses eliminated most astrophysical sources of radiation, such as stars, and since the pulses followed sidereal time, it could not be man-made radio frequency interference.(source=Wikipedia)
+In my project, I used supervised machine learning algorithms to predict whether a star is a pulsar. This comprehensive analysis included:
 
-This kernel is to figure out whether a star is a pulsar star with supervised learning machine learning algorithms.
+- **Data Analysis:** Initial exploration and preprocessing of data.
+- **Logistic Regression:** Building a binary classifier.
+- **K-Nearest Neighbour (KNN) Classification:** Implementing a distance-based approach.
+- **Support Vector Machine (SVM) Classification:** Utilizing hyperplanes for classification.
+- **Naive Bayes Classification:** Applying probabilistic models.
+- **Decision Tree Classification:** Creating tree-based models for decision making.
+- **Random Forest Classification:** Enhancing decision trees with ensemble methods.
+- **Model Evaluation:** Assessing performance metrics to ensure accuracy and reliability.
+
+This project provided valuable experience in applying various machine learning techniques to solve problems in the realm of astrophysics.
